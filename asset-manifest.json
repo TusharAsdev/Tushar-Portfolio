@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Tushar-Portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/Tushar-Portfolio/static/js/main.85ef658a.js",
+    "static/media/HeroImage.jpg": "/Tushar-Portfolio/static/media/HeroImage.7c3899ef3f888af7fc96.jpg",
+    "index.html": "/Tushar-Portfolio/index.html",
+    "main.bf538fe7.css.map": "/Tushar-Portfolio/static/css/main.bf538fe7.css.map",
+    "main.85ef658a.js.map": "/Tushar-Portfolio/static/js/main.85ef658a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.85ef658a.js"
+  ]
+}
